@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/cakephp-attachment-crlf">cakephp-attachment-crlf</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/cakephp-attachment-crlf"><strong>https://abraxaslabs.tech/research/cakephp-attachment-crlf</strong></a>
+</p>
+
 
 # cakephp-attachment-crlf
 
